@@ -1,0 +1,38 @@
+Field Name				Definition
+RefID				        -
+IsBadBuy				- 
+PurchDate				-
+Auction					-
+VehYear					-
+VehicleAge				Numerical
+Make					Categorical ? 
+Model					Categorical ?
+Trim					Categorical - Ordinal
+SubModel				-
+Color					-
+Transmission				Categorical
+WheelTypeID				-
+WheelType				Categorical
+VehOdo					Numerical continuous
+Nationality				Categorical
+Size					Categorical
+TopThreeAmericanName			-
+MMRAcquisitionAuctionAveragePrice	Numerical	
+MMRAcquisitionAuctionCleanPrice		Numerical
+MMRAcquisitionRetailAveragePrice	Numerical
+MMRAcquisitonRetailCleanPrice		Numerical
+MMRCurrentAuctionAveragePrice		Numerical	
+MMRCurrentAuctionCleanPrice		Numerical
+MMRCurrentRetailAveragePrice		Numerical
+MMRCurrentRetailCleanPrice		Numerical
+PRIMEUNIT				ALMOST ALL MISSING
+AcquisitionType				ALL MISSING
+AUCGUART				ALMOST ALL MISSING
+KickDate				ALL MISSING
+BYRNO					-
+VNZIP                                   -
+VNST                                    -
+VehBCost				Numerical
+IsOnlineSale				-
+WarrantyCost                            -
+
